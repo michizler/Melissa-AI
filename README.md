@@ -3,23 +3,23 @@ An AI assistant I call Melissa. Created with Python along with some built-in and
 
 So to start off, the main library here, I'll say is the SpeechRecogintion Library. Some of the others include:
 
-_random
+_random_
 
-_pyttsx3
+_pyttsx3_
 
-_datetime
+_datetime_
 
-_speech_recognition
+_speech_recognition_
 
-_wikipedia
+_wikipedia_
 
-_smtplib
+_smtplib_
 
-_webbrowser as wb
+_webbrowser as wb_
 
-_os
+_os_
 
-_psutil
+_psutil_
 
 These Libraries allows for Melissa to carry out some lovely functions as you'll get to see when you read the code.
 She can:
