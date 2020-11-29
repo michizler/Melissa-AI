@@ -40,6 +40,11 @@ She can:
 
 You two can as well play a game together if asked for. I incorprated my _Guess Me_ Repository game 
 (https://github.com/michizler/Guess-Me) here.
+
+PS:
+The directories included in the code are _specific to me_ and may raise exceptions if used with your system.
+Ensure you change the directories to apply to your specific needs before running the code.
+
 Feel free to play around the code and email me more functionalities I can add.
 
 
